@@ -19,7 +19,7 @@ class NetworkEngineer:
         self.location       = "India"
         self.degree         = "B.Tech, BITS Pilani (CGPA: 7.17)"
         self.role           = "Senior Associate Cloud Architect @ NTT Data"
-        self.experience     = "4.8 years in Enterprise Networking & Security"
+        
 
         self.stack = [
             "F5 BIG-IP (LTM/GTM/APM)",
